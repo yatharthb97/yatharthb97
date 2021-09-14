@@ -1,3 +1,5 @@
+# Yatharth Bhasin
+
 - 👋 Hi, I’m @yatharthb97 (Yatharth Bhasin)
 - 👀 I’m interested in Computational Biophysics
 - ⚒ I'm working as a Junior Research Fellow...
