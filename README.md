@@ -9,9 +9,10 @@
 - 📫 How to reach me : yatharth1997+git@gmail.com
 
 
-## Short modules:
+## Single File Libraries (Shared as Gists):
 
 * [UDCounter](https://gist.github.com/yatharthb97/0ebb5a6e618c2de3720aeefbf82a708a): `python`: Describes a class `UDCounter` or "Up - Down Counter" which is a multi-modal bidirectional counter object.
+* [PITController](https://gist.github.com/yatharthb97/5dfd744b3d4870195b685b8c2d701075): `Embedded C++` : Describes a class to control the `Periodic Interrupt Timer (PIT)` of a **PJRC Teensy 4.1** microcontroller.
 
 <!---
 yatharthb97/yatharthb97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
