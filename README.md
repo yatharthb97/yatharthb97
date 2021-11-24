@@ -18,10 +18,11 @@
 
 
 ---
----
+
 
 ## Resources
 * [config_serial_port.c](https://gist.github.com/yatharthb97/0958cb2937509361ae1044074205fd48) : `C` : Contains code to configure any terminal type to a simple serial port on Linux systems.
+* [data_store.py](https://gist.github.com/yatharthb97/a0b3a2665f065d982e7b0e2b2dd274b0) : `python 3` : DataStore is utility object that can be used to effectively create and manage a directory of files for any generic use case.
 
 <!---
 yatharthb97/yatharthb97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
