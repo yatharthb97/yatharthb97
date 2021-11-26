@@ -19,7 +19,7 @@
 
 ---
 
-## Currently Working ON
+## Currently Working On
 * [ArduinoDiscreteParser](https://github.com/yatharthb97/ArduinoDiscreteParser) : `C++ / Arduino` : A discrete parser for Arduino devices.
 
 
