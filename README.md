@@ -19,6 +19,9 @@
 
 ---
 
+## Currently working on:
+*[https://github.com/yatharthb97/ArduinoDiscreteParser] : `C++ / Arduino` : A discrete parser for Arduino devices.
+
 
 ## Resources
 * [config_serial_port.c](https://gist.github.com/yatharthb97/0958cb2937509361ae1044074205fd48) : `C` : Contains code to configure any terminal type to a simple serial port on Linux systems.
