@@ -29,7 +29,7 @@
 * [config_serial_port.c](https://gist.github.com/yatharthb97/0958cb2937509361ae1044074205fd48) : `C` : Contains code to configure any terminal type to a simple serial port on Linux systems.
 
 
-Use Gists as repos:
+Use Gists as (submodule) repositories:
 ```
 git submodule add <repo path>
 git mv <absurd repo name> <something meaningful>
