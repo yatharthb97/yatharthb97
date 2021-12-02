@@ -1,9 +1,9 @@
 # Yatharth Bhasin
 
 - 👋 Hi, I’m @yatharthb97 (Yatharth Bhasin)
-- 👀 I’m interested in Computational Biophysics
-- ⚒ I'm working as a Junior Research Fellow...
-- 🔬 at Tata Institute of Fundamental Research Centre for Interdisciplnary Sciences (TIFR-TCIS)
+- 👀 I’m interested in Computational Biological Physics & Biophysics
+- ⚒ I'm working as a Junior Research Fellow
+- 🔬 at Tata Institute of Fundamental Research - TIFR Centre for Interdisciplnary Sciences (TIFR-TCIS) Hyderabad
 - 🌱 I’m currently learning Living Systems Modelling
 - 💞️ I’m looking to collaborate on all things unknown
 - 📫 How to reach me : yatharth1997+git@gmail.com
