@@ -16,6 +16,7 @@
 * [PIT_LifetimeTimer](https://gist.github.com/yatharthb97/ec75c614922c807b9aa022b52c3f36b0) : `Embedded C++` : Class Interface for using the **Life Time Timer** functionality of the `Periodic Interrupt Timer (PIT) ` on **Teensy 4.1** microcontroller.
 * [PyQTGraphStack](https://gist.github.com/yatharthb97/f3748ef894627748bacccf092648aa59) : `python3` : PyQTGraphStack is a wrapper around the pyqtgraph API for rapid prototyping, focused around creation of multiple plots with multiple curves and intended towards fast real-time data display.
 * [data_store.py](https://gist.github.com/yatharthb97/a0b3a2665f065d982e7b0e2b2dd274b0) : `python 3` : DataStore is utility object that can be used to effectively create and manage a directory of files for any generic use case.
+* [macro_modes.hpp](https://gist.github.com/yatharthb97/5daec9f62e8b2a60e4c5a775137efb26) : `C++` : Macro mode manager is a simple utility that helps in managing MACROS in C++, especially feature macros.
 
 
 ---
@@ -27,6 +28,12 @@
 ## Resources
 * [config_serial_port.c](https://gist.github.com/yatharthb97/0958cb2937509361ae1044074205fd48) : `C` : Contains code to configure any terminal type to a simple serial port on Linux systems.
 
+
+Use Gists as repos:
+```
+git submodule add <repo path>
+git mv <absurd repo name> <something meaningful>
+```
 
 <!---
 yatharthb97/yatharthb97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
