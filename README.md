@@ -17,6 +17,7 @@
 * [PyQTGraphStack](https://gist.github.com/yatharthb97/f3748ef894627748bacccf092648aa59) : `python3` : PyQTGraphStack is a wrapper around the pyqtgraph API for rapid prototyping, focused around creation of multiple plots with multiple curves and intended towards fast real-time data display.
 * [data_store.py](https://gist.github.com/yatharthb97/a0b3a2665f065d982e7b0e2b2dd274b0) : `python 3` : DataStore is utility object that can be used to effectively create and manage a directory of files for any generic use case.
 * [macro_modes.hpp](https://gist.github.com/yatharthb97/5daec9f62e8b2a60e4c5a775137efb26) : `C++` : Macro mode manager is a simple utility that helps in managing MACROS in C++, especially feature macros.
+* [circular_buffer.hpp](https://gist.github.com/yatharthb97/2211c7898382eb4f9ae819b8f490311b) : `C++` : Implementation of simple Circular Buffer with bounded index random accessor.
 
 
 ---
