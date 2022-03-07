@@ -10,7 +10,7 @@
 
 
 
-**KG Lab project's page: ** [link](kglab.md)
+**KG Lab project's page:** [](kglab.md)
 
 
 
