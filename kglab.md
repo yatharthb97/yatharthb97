@@ -46,9 +46,9 @@ Resources that were built for the in-house fluorometer.
 
 ## fcstools
 
-FCS tools is a collection of python modules for analysis of count rate and autocorrelation data. It also contains a submodule for dealing with images.
+python module for filtering and analysis, and plotting of Fluorescence Correlation Spectroscopy (FCS) and Fluorescence Count Rate measurements.
 
-... updating library link.
+Repository link: https://github.com/yatharthb97/fcstools
 
 
 
