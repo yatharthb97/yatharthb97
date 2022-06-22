@@ -26,6 +26,7 @@
 7. [circular_buffer.hpp](https://gist.github.com/yatharthb97/2211c7898382eb4f9ae819b8f490311b) : `C++` : Implementation of simple Circular Buffer with bounded index random accessor.
 8. [metadata.py](https://gist.github.com/yatharthb97/1110a1924d8d70ef8ad444f12a952de6) : `python3` : Object that is specialized to collect, store, and export metadata for any generic application.
 9. [configr.py](https://gist.github.com/yatharthb97/086f24c9a01bb5a508821fae80e190c9) : `python 3` : Tool to import, verify, and generate config files {json and yaml} for python.
+10. [tmliteral.py](https://gist.github.com/yatharthb97/8798b23a1611a90b056e2026bbed63a8) : `python 3` : A module for managing and parsing string to time literals in python.
 
 ---
 
