@@ -15,7 +15,7 @@
 
 
 
-## Single File Libraries (Shared as Gists):
+## Single File Libraries (Shared as [Gists](https://gist.github.com/yatharthb97)):
 
 1. [UDCounter](https://gist.github.com/yatharthb97/0ebb5a6e618c2de3720aeefbf82a708a) : `python3` : Describes a class `UDCounter` or "Up - Down Counter" which is a multi-modal bidirectional counter object.
 2. [PITController](https://gist.github.com/yatharthb97/5dfd744b3d4870195b685b8c2d701075) : `Embedded C++` : Describes a class to control the `Periodic Interrupt Timer (PIT)` of a **PJRC Teensy 4.1** microcontroller.
