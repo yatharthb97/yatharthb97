@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on all things unknown
 - 📫 How to reach me : yatharth1997+git@gmail.com
 - 🌐 My website : https://yatharthb97.github.io/
-- ![](./github_logo.png) GitHub Profile Insights: https://metrics.lecoq.io/insights/yatharthb97
+- 📈 GitHub Profile Insights: https://metrics.lecoq.io/insights/yatharthb97
 
 **KG Lab project's page:** [kglab.md](kglab.md)
 
