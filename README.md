@@ -1,12 +1,6 @@
 | ![](https://github-readme-stats.vercel.app/api?username=yatharthb97&include_all_commits=True&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-
-
-![Metrics](https://metrics.lecoq.io/yatharthb97)
-
-
-
 - 👋 Hi, I’m  **Yatharth Bhasin** (@yatharthb97)
 - 👀 I’m interested in Computational Biological Physics & Biophysics
 - ⚒ I'm a Ph.D. candidate at the **Instituto Gulbenkian de Ciência (IGC)** 
