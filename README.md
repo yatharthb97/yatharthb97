@@ -1,5 +1,9 @@
 # Yatharth Bhasin
 
+<p align="right">
+    <img src="https://media.giphy.com/media/7BT3CkQCZXme1iHyuj/giphy-downsized.gif" width="200" />
+</p>
+
 - 👋 Hi, I’m  **Yatharth Bhasin** (@yatharthb97)
 - 👀 I’m interested in Computational Biological Physics & Biophysics
 - ⚒ I'm a Ph.D. candidate at the **Instituto Gulbenkian de Ciência (IGC)** 
@@ -49,10 +53,6 @@ git mv <absurd repo name> <something meaningful>
 yatharthb97/yatharthb97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![](https://media.giphy.com/media/7BT3CkQCZXme1iHyuj/giphy-downsized.gif){ width="800" height="600" style="display: block; margin: 0 auto" }
-
-![](){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 
 
