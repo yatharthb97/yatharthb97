@@ -1,6 +1,11 @@
-<p align="centre">
-    <img src="https://media.giphy.com/media/7BT3CkQCZXme1iHyuj/giphy-downsized.gif" width="200" />
-</p>
+| ![](https://github-readme-stats.vercel.app/api?username=yatharthb97) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+​	
+
+![Metrics](https://metrics.lecoq.io/yatharthb97)
+
+
 
 - 👋 Hi, I’m  **Yatharth Bhasin** (@yatharthb97)
 - 👀 I’m interested in Computational Biological Physics & Biophysics
