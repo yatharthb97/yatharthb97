@@ -1,4 +1,4 @@
-| ![](https://github-readme-stats.vercel.app/api?username=yatharthb97&card_width=250&include_all_commits=True&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97&card_width=350) |
+| ![](https://github-readme-stats.vercel.app/api?username=yatharthb97&card_width=400&include_all_commits=True&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97&card_width=200) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
