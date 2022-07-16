@@ -9,6 +9,7 @@
 - 💞️ I’m looking to collaborate on all things unknown
 - 📫 How to reach me : yatharth1997+git@gmail.com
 - 🌐 My website : https://yatharthb97.github.io/
+- ![](./github-logo.png) GitHub Profile Insights: https://metrics.lecoq.io/insights/yatharthb97
 
 **KG Lab project's page:** [kglab.md](kglab.md)
 
@@ -36,6 +37,14 @@
 <!---
 [config_serial_port.c](https://gist.github.com/yatharthb97/0958cb2937509361ae1044074205fd48) : `C` : Contains code to configure any terminal type to a simple serial port on Linux systems. 
 --->
+
+# [Visit my website](https://yatharthb97.github.io/)
+
+<iframe loading="lazy" src="https://yatharthb97.github.io/" name="Website Prevew" scrolling="No" height="500px" width="100%" style="border: none;"></iframe>
+
+
+
+
 
 ### Use `GitHub Gist` as a Repository:
 
