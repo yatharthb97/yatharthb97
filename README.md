@@ -1,18 +1,15 @@
 # Yatharth Bhasin
 
-- 👋 Hi, I’m @yatharthb97 (Yatharth Bhasin)
+- 👋 Hi, I’m  **Yatharth Bhasin** (@yatharthb97)
 - 👀 I’m interested in Computational Biological Physics & Biophysics
-- ⚒ I'm working as a Junior Research Fellow
-- 🔬 at Tata Institute of Fundamental Research - TIFR Centre for Interdisciplnary Sciences (TIFR-TCIS) Hyderabad
-- 🌱 I’m currently learning Living Systems Modelling
+- ⚒ I'm a Ph.D. candidate at the **Instituto Gulbenkian de Ciência (IGC)** 
+- 🔬 before that I worked at  Tata Institute of Fundamental Research Hyderabad (TIFR-TCIS)
+- 🌱 I’m currently learning Physics of Living Systems and Low Cost Instrumentation
 - 💞️ I’m looking to collaborate on all things unknown
 - 📫 How to reach me : yatharth1997+git@gmail.com
-
-
+- 🌐 My website : https://yatharthb97.github.io/
 
 **KG Lab project's page:** [kglab.md](kglab.md)
-
-
 
 
 ## Single File Libraries (Shared as [Gists](https://gist.github.com/yatharthb97)):
@@ -31,14 +28,17 @@
 ---
 
 ## Currently Working On
-* [ArduinoDiscreteParser](https://github.com/yatharthb97/ArduinoDiscreteParser) : `C++ / Arduino` : A discrete parser for Arduino devices.
+* [ArduinoDiscreteParser](https://github.com/yatharthb97/ArduinoDiscreteParser) : `C++ / Arduino` : A discrete parser for Arduino devices. **[work stalled]**
+* [Console]() : `python 3` : A terminal emulator + terminal multiplexer that integrates 
+
+<!---
+[config_serial_port.c](https://gist.github.com/yatharthb97/0958cb2937509361ae1044074205fd48) : `C` : Contains code to configure any terminal type to a simple serial port on Linux systems. 
+--->
+
+### Use `GitHub Gist` as a Repository:
 
 
-## Resources
-* [config_serial_port.c](https://gist.github.com/yatharthb97/0958cb2937509361ae1044074205fd48) : `C` : Contains code to configure any terminal type to a simple serial port on Linux systems.
-
-
-Use Gists as (submodule) repositories:
+Use Gist as (submodule) repositories:
 ```
 git submodule add <repo path>
 git mv <absurd repo name> <something meaningful>
