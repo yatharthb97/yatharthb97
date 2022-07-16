@@ -1,7 +1,11 @@
 | ![](https://github-readme-stats.vercel.app/api?username=yatharthb97) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-​	
+| <img src=https://github-readme-stats.vercel.app/api?username=yatharthb97" width="600"> | <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97" width="600"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
 
 ![Metrics](https://metrics.lecoq.io/yatharthb97)
 
