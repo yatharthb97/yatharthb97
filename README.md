@@ -1,5 +1,3 @@
-# Yatharth Bhasin
-
 <p align="centre">
     <img src="https://media.giphy.com/media/7BT3CkQCZXme1iHyuj/giphy-downsized.gif" width="200" />
 </p>
