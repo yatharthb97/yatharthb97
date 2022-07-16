@@ -1,9 +1,7 @@
-| ![](https://github-readme-stats.vercel.app/api?username=yatharthb97) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97) |
+| [[https://github-readme-stats.vercel.app/api?username=yatharthb97&card_width=400&include_all_commits=True&count_private=true\|width=100px]] | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97&card_width=350) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-| <img src=https://github-readme-stats.vercel.app/api?username=yatharthb97" width="600"> | <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97" width="600"> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
+
 
 
 
