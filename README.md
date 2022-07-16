@@ -1,5 +1,7 @@
-| ![](https://github-readme-stats.vercel.app/api?username=yatharthb97&include_all_commits=True&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97) |
+| ![](https://github-readme-stats.vercel.app/api?username=yatharthb97&include_all_commits=True&show_icons=true&count_private=true&theme=dark&card_width=400px) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97&&layout=compact&theme=dark&card_width=500px) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
 
 - 👋 Hi, I’m  **Yatharth Bhasin** (@yatharthb97)
 - 👀 I’m interested in Computational Biological Physics & Biophysics
