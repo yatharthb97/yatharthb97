@@ -25,10 +25,11 @@
 9. [configr.py](https://gist.github.com/yatharthb97/086f24c9a01bb5a508821fae80e190c9) : `python 3` : Tool to import, verify, and generate config files {json and yaml} for python.
 10. [tmliteral.py](https://gist.github.com/yatharthb97/8798b23a1611a90b056e2026bbed63a8) : `python 3` : A module for managing and parsing string to time literals in python.
 
----
+
 
 ## Currently Working On
-* [ArduinoDiscreteParser](https://github.com/yatharthb97/ArduinoDiscreteParser) : `C++ / Arduino` : A discrete parser for Arduino devices. **[work stalled]**
+
+* [ArduinoDiscreteParser](https://github.com/yatharthb97/ArduinoDiscreteParser) : `C++ / Arduino` : A discrete parser for Arduino devices.  **[work stalled]**
 * [Console]() : `python 3` : A terminal emulator + terminal multiplexer that integrates 
 
 <!---
@@ -48,3 +49,5 @@ git mv <absurd repo name> <something meaningful>
 yatharthb97/yatharthb97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![](https://media.giphy.com/media/7BT3CkQCZXme1iHyuj/giphy-downsized.gif)
