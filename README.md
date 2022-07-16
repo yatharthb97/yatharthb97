@@ -52,4 +52,10 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://media.giphy.com/media/7BT3CkQCZXme1iHyuj/giphy-downsized.gif){ width="800" height="600" style="display: block; margin: 0 auto" }
 
-![](https://media.giphy.com/media/8VRHtcV0vbUIYfhc7h/giphy.gif){ width="800" height="600" style="display: block; margin: 0 auto" }
+![](){ width="800" height="600" style="display: block; margin: 0 auto" }
+
+
+
+<p align="center">
+    <img src="https://media.giphy.com/media/8VRHtcV0vbUIYfhc7h/giphy.gif" width="200" />
+</p>
