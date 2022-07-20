@@ -1,10 +1,8 @@
 
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=yatharthb97&include_all_commits=True&show_icons=true&count_private=true&theme=dark&card_width=500px) | <img src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" width="200" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97&&layout=compact&theme=dark&card_width=450px) |                                                              |
+![Stats](https://github-readme-stats.vercel.app/api?username=yatharthb97&include_all_commits=True&show_icons=true&count_private=true&theme=dark&card_width=500px)
 
-
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97&&layout=compact&theme=dark&card_width=450px)
 
 
 
