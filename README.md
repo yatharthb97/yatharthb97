@@ -8,9 +8,10 @@
 
 - 👋 Hi, I’m  **Yatharth Bhasin** (@yatharthb97)
 - 👀 I’m interested in Computational Biological Physics & Biophysics
-- ⚒ I'm a Ph.D. candidate at the **Instituto Gulbenkian de Ciência (IGC)** 
+- ⚒ I'm a Ph.D. student at the [**Instituto Gulbenkian de Ciência (IGC)** ](https://gulbenkian.pt/ciencia/)
+- 🦠 and I work at the [**Living Physics Group**](https://www.sartorilab.org/) ([Institute Page](https://gulbenkian.pt/ciencia/research-groups/psartori/))
 - 🔬 before that I worked at  Tata Institute of Fundamental Research Hyderabad (TIFR-TCIS)
-- 🌱 I’m currently learning Physics of Living Systems and Low Cost Instrumentation
+- 🌱 I’m currently learning Physics of Living Systems and Biology
 - 💞️ I’m looking to collaborate on all things unknown
 - 📫 How to reach me : yatharth1997+git@gmail.com
 - 🌐 My website : https://yatharthb97.github.io/
