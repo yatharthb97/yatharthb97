@@ -1,7 +1,8 @@
 
-<span hidden>
+<!---
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=yatharthb97&include_all_commits=True&show_icons=true&count_private=True&theme=dark&card_width=510px)
-<\span>
+--->
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthb97&&layout=compact&theme=dark&card_width=450px)
 
